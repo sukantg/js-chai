@@ -1,1 +1,1 @@
-# js-chai
+Javascript + Chai framework 

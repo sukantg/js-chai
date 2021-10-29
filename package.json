@@ -1,0 +1,22 @@
+{
+  "name": "js-chai",
+  "version": "1.0.0",
+  "description": "Javascript + Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukantg/js-chai.git"
+  },
+  "author": "Sukant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukantg/js-chai/issues"
+  },
+  "homepage": "https://github.com/sukantg/js-chai#readme",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
